@@ -1,0 +1,43 @@
+html { 
+    background: url("bluebg.png") repeat center center fixed; 
+    -webkit-background-size: repeat;
+    -moz-background-size: repeat;
+    -o-background-size: repeat;
+    background-size: repeat;
+}
+
+div.container{
+    text-align: center;
+
+}
+
+body {
+    color: black;
+    background-color: transparent;
+}
+
+h1 {
+    text-align: center;
+    font-size:84px;
+    color: black;
+     font-family: 'Baloo Tamma', cursive;
+    
+}
+
+h3 {
+    color:black;
+    text-align: center;
+}
+
+.btn-wrapper {
+    padding: 20px 0;
+}
+
+p{
+    font-size:24px;
+}
+
+div#output{
+    color: darkblue;
+    font-size: 36px;
+}
