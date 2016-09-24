@@ -1,3 +1,4 @@
+/// <reference path="../typings/globals/jquery/index.d.ts" />
 $(function () {
     $('#facegetter').on('click', function (e) {
         e.preventDefault();
